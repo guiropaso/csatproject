@@ -82,11 +82,15 @@ This dataset enables a multi-dimensional analysis of customer satisfaction, allo
     - **4 out of 6** managers achieved **passing scores (above 80%)**, while the remaining two scored **79%** but had **low survey volume**  (**<15%** combined).
     - Best-performing manager: **Emily Chen (86.07%)**, exceeding the next best manager (John Smith) by **+290** basis points.
 
+  ![Image](https://github.com/user-attachments/assets/0e8fed75-cd6f-4a82-846d-50e99cc01e0f)
+
 ### **CSAT by Tenure**
 
 - All tenure groups met the 80% target.
 - **On-Job Training (OJT) agents** generated **30%** of surveys, reflecting their large representation (**38%**) in the agent population.
 - **Tenured agents** outperformed **OJT agents (83.2% vs. 80% CSAT)**, though both are trending positively WoW.
+
+  ![Image](https://github.com/user-attachments/assets/278c9ccd-2dda-4293-a1cc-8d8831fe115d)
 
 ### **CSAT by Issue Category & Sub-Category**
 
@@ -94,11 +98,15 @@ This dataset enables a multi-dimensional analysis of customer satisfaction, allo
 - Low-volume categories (Others, Offers & Cashback, Onboarding-Related) contribute <0.1% each.
 - **Order-Related CSAT (78.6%)** is **below target**, while **Returns CSAT (85.2%)** exceeds expectations—both categories show an **upward weekly trend**.
 
+  ![Image](https://github.com/user-attachments/assets/a6eafcdb-7f3e-4974-ac1f-85e6a839f533)
+
 ### **CSAT by Supervisor**
 
 - **8 out of 40** supervisors (**20%**) scored below 80%.
 - Low survey volume among some underperforming teams (≈0.5% of total surveys per team).
 - Zoe Yamamoto’s team (4.1% of total surveys) had a **77%** CSAT, but only met the target in the last week of the period.
+
+  ![Image](https://github.com/user-attachments/assets/e51e0f9c-e713-465f-93b1-5c7c382b68bd)
 
 ### **CSAT by Shift**
 
@@ -106,12 +114,15 @@ This dataset enables a multi-dimensional analysis of customer satisfaction, allo
 - Afternoon and split shifts (11% of total volume combined) are on target but trending downward.
 - Night shift (1.5% of total volume) is statistically insignificant.
 
+  ![Image](https://github.com/user-attachments/assets/f047a79d-2819-46ad-8e5c-bbfd5fbfb008)
+
 ### **Channel Breakdown**
 
 - **Inbound calls** account for **80%** of total survey responses, making this channel the **primary driver of survey generation**.
 - Outbound calls (17%) and emails (4%) contribute marginally to survey generation.
 - Despite channel differences, the **overall CSAT trend is positive across all channels**.
 
+![Image](https://github.com/user-attachments/assets/49e6806b-d04d-4b70-a72b-95c620fb7bc9)
 
 
 # Recommendations
