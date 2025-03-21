@@ -49,6 +49,7 @@ This dataset enables a multi-dimensional analysis of customer satisfaction, allo
 ### **Weekly CSAT Performance**
 
 - A **notable improvement of +240 basis points** in CSAT was observed from **Week 31 to Week 34**, while **volume remained constant**—indicating an actual performance uplift rather than a volume-driven fluctuation.
+  
 ![Image](https://github.com/user-attachments/assets/11b68a9f-3248-4350-a28f-d79a27b7f8e0)
 
 ### **Response Time: The Key CSAT Driver**
@@ -57,15 +58,21 @@ This dataset enables a multi-dimensional analysis of customer satisfaction, allo
 - **84% of all issues were resolved within 2 hours**, and this performance improvement spills over into other categorical factors like tenure, shift, category, channel, etc.
 - The overall trend is **positive**, with more issues being resolved **within 2 hours** week over week which drives CSAT scores higher.
 
+  ![Image](https://github.com/user-attachments/assets/de08cc60-550f-4290-b25a-4fcad46f8a4d)
+
 ### **Customer Remarks & Sentiment Analysis**
 
 - There is a strong correlation between customer remarks sentiment and CSAT scores—**92% of surveys with positive remarks result in a promoter rating**. However, **only 33% of all surveys contain remarks**, presenting an opportunity to encourage more **positive feedback generation** as a potential lever for improving overall CSAT scores.
+
+  ![Image](https://github.com/user-attachments/assets/4240da01-853d-4b25-818e-59d9fe74a3d8)
 
 ### **Survey Volume Patterns: Weekly & Hourly Trends**
 
 - The majority of interactions (**48%**) occur between **Tuesday and Thursday**.
 - A **clear peak in customer interactions** is observed daily from **10 AM to 9 PM**, with volume during these hours being **10x higher** than late-night hours.
 - No seasonal variations were observed within the analyzed period, suggesting a **consistent weekly demand pattern**.
+  
+  ![Image](https://github.com/user-attachments/assets/6a331aa9-5402-4c84-aac1-0b93eeda3e92)
 
 ### **CSAT by Manager**
 
