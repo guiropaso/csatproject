@@ -49,6 +49,7 @@ This dataset enables a multi-dimensional analysis of customer satisfaction, allo
 ### **Weekly CSAT Performance**
 
 - A **notable improvement of +240 basis points** in CSAT was observed from **Week 31 to Week 34**, while **volume remained constant**—indicating an actual performance uplift rather than a volume-driven fluctuation.
+![Image](https://github.com/user-attachments/assets/11b68a9f-3248-4350-a28f-d79a27b7f8e0)
 
 ### **Response Time: The Key CSAT Driver**
 
