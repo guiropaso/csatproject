@@ -11,7 +11,7 @@ CSAT% score formula = sum of promoters / (sum of promoters + sum of dectractors)
 
 See technical analysis notebook here
 
-Check the live CSAT dashboard here
+Check the live CSAT dashboard [here](https://public.tableau.com/shared/9CDJHRC7H?:display_count=n&:origin=viz_share_link).
 
 # Objectives
 The primary objective of this project is to conduct an in-depth analysis of CSAT trends and patterns within an e-commerce surveys dataset. By leveraging data analytics and machine learning, we aim to uncover insights that drive **service quality improvements, agent performance optimization, and enhanced customer experiences.**
