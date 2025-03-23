@@ -64,7 +64,7 @@ This dataset enables a multi-dimensional analysis of customer satisfaction, allo
 
 - There is a strong correlation between customer remarks sentiment and CSAT scores—**92% of surveys with positive remarks result in a promoter rating**. However, **only 33% of all surveys contain remarks**, presenting an opportunity to encourage more **positive feedback generation** as a potential lever for improving overall CSAT scores.
 
-  ![Image](https://github.com/user-attachments/assets/4240da01-853d-4b25-818e-59d9fe74a3d8)
+  ![Image](https://github.com/user-attachments/assets/e710857a-1629-48ed-8a1b-e7ab41e3c40b)
 
 ### **Survey Volume Patterns: Weekly & Hourly Trends**
 
