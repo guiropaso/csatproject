@@ -9,7 +9,7 @@ Caveats: For this project a good survey (promoter) is a survey with a score of 4
 
 CSAT% score formula = sum of promoters / (sum of promoters + sum of dectractors)
 
-See technical analysis notebook here
+See technical analysis notebook [here](CSAT.ipynb).
 
 Check the live CSAT dashboard [here](https://public.tableau.com/shared/9CDJHRC7H?:display_count=n&:origin=viz_share_link).
 
