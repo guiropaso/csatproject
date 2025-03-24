@@ -26,7 +26,7 @@ Specifically, this project focuses on:
 - **Operational Dashboard:** Designing an **interactive dashboard** to enable real-time monitoring of CSAT performance and empower management teams with actionable insights.
 
 # Data Description
-he dataset used in this analysis captures customer satisfaction survey responses over a one-month period for an e-commerce platform, referred to as Shopzilla (a pseudonym). It contains key operational and transactional details related to customer support interactions, providing a comprehensive view of factors influencing CSAT performance.
+The dataset used in this analysis captures customer satisfaction survey responses over a one-month period for an e-commerce platform, referred to as Shopzilla (a pseudonym). It contains key operational and transactional details related to customer support interactions, providing a comprehensive view of factors influencing CSAT performance.
 
 Key Features:
 
